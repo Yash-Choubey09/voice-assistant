@@ -1,0 +1,9 @@
+{
+    "weather_api_key": "84c0eb074c29145ada728364060e70cd",
+    "bot_name": "ChatGenie",
+    "voice_enabled": true,
+    "language": "en",
+    "greeting": "Hi there! I'm ChatGenie, your Python-powered chatbot!",
+    "farewell": "Goodbye! Have a great day!",
+    "default_response": "I'm not sure how to respond to that."
+  }  
